@@ -20,4 +20,8 @@ struct hostent{
 - 直接使用c函数解析域名地址，速度快，可作为网络检测工具使用，检测DNS劫持
 - aar包中so极致精简,arm64-v8a为**2.2kb**
 
+# 效果
+
+![image](https://user-images.githubusercontent.com/17868751/149097808-8f62beca-f951-4c21-970e-b90597254eeb.png)
+
 
